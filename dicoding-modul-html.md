@@ -107,7 +107,7 @@ Pada ordered list, tipe urutan angkanya dapat kita atur melalui sebuah atribut t
 berikut adalah nilai yang dapat kita gunakan di ```<ol>```
 | Nilai | Deskripsi |
 | ----------- | :---------: |
-| 1 | menggunakan angaka dalam urutan item (default) |
+| 1 | menggunakan angka dalam urutan item (default) |
 | a | menggunakan huruf kecil dalam urutan item|
 | A | menggunakan huruf besar dalam urutan item|
 | i | menggunakan huruf romawi kecil dalam urutan item |
