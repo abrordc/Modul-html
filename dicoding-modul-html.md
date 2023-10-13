@@ -21,7 +21,7 @@ dan saya merasa harus merangkum materi tersebut agar orang lain bisa mempelajari
 </head>
 <body>
     <h1>MADURA</h1>
-    <P>madura adalah pulai yang ada di jawa timur</P>
+    <P>madura adalah pulau yang ada di jawa timur</P>
     <ul>
         <li>sejarah</li>
         <li>geografis</li>
