@@ -53,7 +53,7 @@ Seperti namanya, unordered list merupakan daftar yang tidak mementingkan urutan.
   <li>Item 4</li>
 </ul>
 ```
-Di antara tag elemen ```html <li> ```, kita dapat mengisikan konten apa pun termasuk elemen HTML lain. Contohnya, kita dapat memasukkan sebuah heading atau paragraf pada item.
+Di antara tag elemen ``` <li> ```, kita dapat mengisikan konten apa pun termasuk elemen HTML lain. Contohnya, kita dapat memasukkan sebuah heading atau paragraf pada item.
 ```html
 <ul>
   <li><h1>Sebuah Heading sebagai item list</h1></li>
@@ -61,7 +61,7 @@ Di antara tag elemen ```html <li> ```, kita dapat mengisikan konten apa pun term
   <li><p>Sebuah paragraf sebagai item list</p></li>
 </ul>
 ```
-dan kita bisa juga menambahkan ```<ul>``` di dalam ```<ul``` contoh code berikut 
+dan kita bisa juga menambahkan ```<ul>``` di dalam ```<ul>``` contoh code berikut 
 ```html
 <ul>
   <li>List item 1</li>
