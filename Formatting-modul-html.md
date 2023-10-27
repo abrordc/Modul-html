@@ -95,8 +95,8 @@ Anchor (jangkar) merupakan elemen yang digunakan untuk membuat sebuah hyperlink 
 | hreflang | language_code | Menetapkan bahasa dari dokumen target |
 | ping | list_of_URLs | Menetapkan URL yang akan diberitahu dengan mengirimkan post request ping pada body oleh browser (berjalan di belakang layar) ketika target URL pada hyperlink ditekan. Biasanya atribut ini digunakan untuk pelacakan |
 | referrerpolicy | no-referrer, no-referrer-when-downgrade, origin, origin-when-cross-origin, unsafe-url | Menetapkan referensi untuk dikirim pada target |
-| rel | alternate,author,bookmark,external,help,license,next,nofollow,noreferrer,noopener,prev,search,tag | Menetapkan hubungan antara halaman yang ditampilkan dengan target |
-| target | _blank,_parent,_self,_top | Menetapkan lokasi ketika membuka target contohnya pada sebuah tab, window, atau tab itu sendiri |
+| rel | alternate, author, bookmark, external, help, license, next, nofollow, noreferrer, noopener, prev, search, tag | Menetapkan hubungan antara halaman yang ditampilkan dengan target |
+| target | _blank, _parent, _self, _top | Menetapkan lokasi ketika membuka target contohnya pada sebuah tab, window, atau tab itu sendiri |
 | media | media_type | Menetapkan tipe media yang digunakan pada target |
 
 ## Emphasized text
