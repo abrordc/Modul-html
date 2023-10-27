@@ -31,7 +31,7 @@ Pada modul sebelumnya, kita sudah mengetahui bahwa HTML akan mengabaikan spasi y
 
 Dengan begitu, terdapat sebuah elemen yang dapat kita gunakan untuk menampilkan konten sesuai yang kita tulis pada text editor. Untuk menggunakannya, kita gunakan elemen ``` <pre> ```sebagai pembungkus kontennya. Perhatikan contoh berikut.
 ```html
- <pre>
+<pre>
   SAJAK PUTIH
 Bersandar pada tari warna pelangi
 Kau depanku bertudung sutra senja
