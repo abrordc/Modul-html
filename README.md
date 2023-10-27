@@ -4,8 +4,9 @@
 ---
 
 * ~~Method / Function~~
-* [paragraf heading list](https://github.com/DemtimCod)
-* [Encapsulation](https://github.com/NazirArifin/modulpbo/blob/master/encapsulation.md)
+* [paragraf heading list](https://github.com/DemtimCod/Modul-html/blob/main/dicoding-modul-html.md)
+* [Gambar]
+(https://github.com/DemtimCod/Modul-html/blob/main/img-modul-html.md)
 * [Inheritance](https://github.com/NazirArifin/modulpbo/blob/master/inheritance.md)
 * [Constructor](https://github.com/NazirArifin/modulpbo/blob/master/constructor.md)
 * [Static & Final](https://github.com/NazirArifin/modulpbo/blob/master/static_final.md)
