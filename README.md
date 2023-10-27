@@ -1,11 +1,10 @@
-# Modul Komunitas HTML
+# Modul HTML
 
-
+Modul html untuk komunitas web
 ---
 
-* ~~Method / Function~~
 * [paragraf heading list](https://github.com/DemtimCod/Modul-html/blob/main/dicoding-modul-html.md)
-* [Gambar](https://github.com/DemtimCod/Modul-html/blob/main/dicoding-modul-html.md)
+* [Gambar](https://github.com/DemtimCod/Modul-html/blob/main/Img-modul-html.md)
 * [Inheritance](https://github.com/NazirArifin/modulpbo/blob/master/inheritance.md)
 * [Constructor](https://github.com/NazirArifin/modulpbo/blob/master/constructor.md)
 * [Static & Final](https://github.com/NazirArifin/modulpbo/blob/master/static_final.md)
